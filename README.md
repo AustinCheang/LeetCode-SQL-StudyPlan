@@ -8,40 +8,9 @@ This repository covers my solution on my learning path on [LeetCode SQL Study Pl
 
 There are 3 stages to complete in order to finish the whole SQL Plan: SQL I, SQL II and SQL III. To finish the plan requires approximate a month and attempt 2-4 questions per day.
 
-### SQL I
-
-| Day  | \#   | Problem                                                      | Level | Solution | Check |
-| ---- | ---- | ------------------------------------------------------------ | ----- | -------- | ----- |
-| 1    | 595  | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy  |          |       |
-| 1    | 1757 |                                                              | Easy  |          |       |
-| 1    | 584  |                                                              | Easy  |          |       |
-| 1    | 183  |                                                              | Easy  |          |       |
-| 2    |      |                                                              | Easy  |          |       |
-| 2    |      |                                                              | Easy  |          |       |
-| 2    |      |                                                              | Easy  |          |       |
-| 3    |      |                                                              | Easy  |          |       |
-| 3    |      |                                                              | Easy  |          |       |
-| 3    |      |                                                              | Easy  |          |       |
-| 4    |      |                                                              | Easy  |          |       |
-| 4    |      |                                                              | Easy  |          |       |
-| 4    |      |                                                              | Easy  |          |       |
-| 4    |      |                                                              | Easy  |          |       |
-|      |      |                                                              | Easy  |          |       |
-|      |      |                                                              | Easy  |          |       |
-|      |      |                                                              | Easy  |          |       |
-|      |      |                                                              | Easy  |          |       |
-|      |      |                                                              | Easy  |          |       |
-|      |      |                                                              | Easy  |          |       |
-|      |      |                                                              | Easy  |          |       |
-|      |      |                                                              | Easy  |          |       |
-|      |      |                                                              | Easy  |          |       |
-|      |      |                                                              | Easy  |          |       |
-|      |      |                                                              | Easy  |          |       |
-|      |      |                                                              | Easy  |          |       |
-|      |      |                                                              | Easy  |          |       |
-|      |      |                                                              | Easy  |          |       |
-|      |      |                                                              | Easy  |          |       |
-|      |      |                                                              | Easy  |          |       |
-
-
+|  Level  | # Easy | # Medium | # Hard | # Days |          Check           |
+| :-----: | :----: | :------: | :----: | :----: | :----------------------: |
+|  SQL I  |   29   |    4     |   0    |   10   | <ul><li>- [x] </li></ul> |
+| SQL II  |   13   |    24    |   1    |   11   |                          |
+| SQL III |   1    |    17    |   11   |   10   |                          |
 
