@@ -8,9 +8,9 @@ This repository covers my solution on my learning path on [LeetCode SQL Study Pl
 
 There are 3 stages to complete in order to finish the whole SQL Plan: SQL I, SQL II and SQL III. To finish the plan requires approximate a month and attempt 2-4 questions per day.
 
-|  Level  | # Easy | # Medium | # Hard | # Days |          Check           |
-| :-----: | :----: | :------: | :----: | :----: | :----------------------: |
-|  SQL I  |   29   |    4     |   0    |   10   | <ul><li>- [x] </li></ul> |
-| SQL II  |   13   |    24    |   1    |   11   |                          |
-| SQL III |   1    |    17    |   11   |   10   |                          |
+|  Level  | # Easy | # Medium | # Hard | # Days |     Check     |
+| :-----: | :----: | :------: | :----: | :----: | :-----------: |
+|  SQL I  |   29   |    4     |   0    |   10   | <ul>- []</ul> |
+| SQL II  |   13   |    24    |   1    |   11   | <ul>- []</ul> |
+| SQL III |   1    |    17    |   11   |   10   | <ul>- []</ul> |
 
