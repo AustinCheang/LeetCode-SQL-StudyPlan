@@ -10,21 +10,38 @@ There are 3 stages to complete in order to finish the whole SQL Plan: SQL I, SQL
 
 ### SQL I
 
-| Day  |  \#  |    Problem    | Level | Solution | Check |
-| :--: | :--: | :-----------: | :---: | :------: | :---: |
-|  1   | 595  | Big Countries | Easy  | Solution |  []   |
-|      |      |               |       |          |       |
-|      |      |               |       |          |       |
-|      |      |               |       |          |       |
-|      |      |               |       |          |       |
-|      |      |               |       |          |       |
-|      |      |               |       |          |       |
-|      |      |               |       |          |       |
-|      |      |               |       |          |       |
-
-
-
-
+| Day  | \#   | Problem                                                      | Level | Solution | Check |
+| ---- | ---- | ------------------------------------------------------------ | ----- | -------- | ----- |
+| 1    | 595  | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy  |          |       |
+| 1    | 1757 |                                                              | Easy  |          |       |
+| 1    | 584  |                                                              | Easy  |          |       |
+| 1    | 183  |                                                              | Easy  |          |       |
+| 2    |      |                                                              | Easy  |          |       |
+| 2    |      |                                                              | Easy  |          |       |
+| 2    |      |                                                              | Easy  |          |       |
+| 3    |      |                                                              | Easy  |          |       |
+| 3    |      |                                                              | Easy  |          |       |
+| 3    |      |                                                              | Easy  |          |       |
+| 4    |      |                                                              | Easy  |          |       |
+| 4    |      |                                                              | Easy  |          |       |
+| 4    |      |                                                              | Easy  |          |       |
+| 4    |      |                                                              | Easy  |          |       |
+|      |      |                                                              | Easy  |          |       |
+|      |      |                                                              | Easy  |          |       |
+|      |      |                                                              | Easy  |          |       |
+|      |      |                                                              | Easy  |          |       |
+|      |      |                                                              | Easy  |          |       |
+|      |      |                                                              | Easy  |          |       |
+|      |      |                                                              | Easy  |          |       |
+|      |      |                                                              | Easy  |          |       |
+|      |      |                                                              | Easy  |          |       |
+|      |      |                                                              | Easy  |          |       |
+|      |      |                                                              | Easy  |          |       |
+|      |      |                                                              | Easy  |          |       |
+|      |      |                                                              | Easy  |          |       |
+|      |      |                                                              | Easy  |          |       |
+|      |      |                                                              | Easy  |          |       |
+|      |      |                                                              | Easy  |          |       |
 
 
 
