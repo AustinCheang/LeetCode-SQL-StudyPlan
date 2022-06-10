@@ -54,7 +54,7 @@ Output:
 ```sql
 SELECT user_id, CONCAT(UPPER(SUBSTRING(name, 1, 1)) , LOWER(SUBSTRING(name, 2, LENGTH(name) -1))) AS name
 FROM Users
-ORDER user_id;
+ORDER BY user_id;
 ```
 
 ```sql
